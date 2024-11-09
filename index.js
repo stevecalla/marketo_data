@@ -16,7 +16,7 @@ const fetchAPI = require('./utilities/fetch_api');
 const exportArrayToCSV = require('./utilities/csv_export');
 const { create } = require('domain');
 
-const get_attribute_types = false; // append to file if exists otherwise create new file
+const get_attribute_types = true; // append to file if exists otherwise create new file
 const get_attributes_data = true; // append to file
 
 async function export_to_csv(result, file_name = 'data', count, data_row_count) {

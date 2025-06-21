@@ -1,0 +1,2028 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<meta http-equiv="X-UA-Compatible" content="text/html; charset=utf-8" />    
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    	<meta name="description" content="Triathlon results in Colorado | includes a variety of races: Ironman triathlon, Olympics triathlon, Womens triathlon, obstacle runs and more"/>
+	<meta name="keywords" content="Triathlon,aquathlon,half  triathalon,ironman triathlon"/>
+	
+	<meta property="og:title" content=" Triathlons in Colorado   | Trifind triathlon calendar" />
+	<meta property="og:description" content="Triathlon results in Colorado | includes a variety of races: Ironman triathlon, Olympics triathlon, Womens triathlon, obstacle runs and more" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.trifind.com/co" />
+	<meta property="og:image" content="https://www.trifind.com/images/logo-new.png?aa=aa" />
+	<script type="text/javascript" src="https://www.trifind.com/js/google/jquery.min.js"></script>
+	
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+   <title> Triathlons in Colorado   | Trifind triathlon calendar</title>
+   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+   <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css"/><script type="text/javascript" src="/js/jquery.validate.min.js"></script><script language="JavaScript" type="text/javascript">
+	function breakout(){top.location!=location&&(top.location.href=document.location.href)}
+</script>
+<script async src="https://maps.google.com/maps/api/js?key=AIzaSyA35Fl8WEdnnPde8jO7YLFXla85sSbEtao"></script>
+<SCRIPT LANGUAGE = JAVASCRIPT>
+document.images&&(img1=new Image,img1.src="/images/InnerBackground.png");
+</SCRIPT>
+
+
+<!-- End Facebook Pixel Code -->
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    var TF_top = googletag.sizeMapping().
+        addSize([300, 0], [300, 250]).
+        addSize([950, 0], [580, 400]).
+        build();
+
+    googletag.defineSlot('/21949969922/TF_Top', [[480, 320], [580, 400], [300, 250]], 'div-gpt-ad-1627760928799-0').defineSizeMapping(TF_top).addService(googletag.pubads());
+
+	googletag.defineSlot('/21949969922/Trifind_TL', [300, 250], 'div-gpt-ad-1623850723240-0').addService(googletag.pubads());
+
+	googletag.defineSlot('/21949969922/Trifind_TR', [300, 250], 'div-gpt-ad-1649627417231-0').addService(googletag.pubads());
+
+	googletag.defineSlot('/21949969922/Trifind_MR', [300, 250], 'div-gpt-ad-1651015429966-0').addService(googletag.pubads());
+
+    var TF_header = googletag.sizeMapping().
+        addSize([480, 0], [468, 60]).
+        addSize([1250, 0], [728, 90]).
+        build();
+
+    googletag.defineSlot('/21949969922/Trifind_ROS_Leaderboard', [[728, 90], [468,60]], 'div-gpt-ad-1627573365068-0').defineSizeMapping(TF_header).addService(googletag.pubads());
+    
+
+    googletag.pubads().setTargeting("Sanctioned_Only", ["true"]);
+    googletag.pubads().setTargeting("Page_Type", ["state"]);
+    googletag.pubads().setTargeting("Page_Num", ["page_1"]);
+    googletag.pubads().setTargeting("Page_Id", [""]);
+    googletag.pubads().setTargeting("Race_Type", [""]);
+    googletag.pubads().setTargeting("State", ["CO"]);
+    googletag.pubads().setTargeting("State_Full", ["Colorado"]);
+console.log('Sanctioned_Only = "true"');console.log('Page_Type = "state"');console.log('Page_Num = "page_1"');console.log('Page_Id = ""');console.log('Race_Type = ""');console.log('State = "CO"');console.log('State_Full = "Colorado"');    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://www.trifind.com/css/allinone.css?ver=20220527" />
+
+<script type='text/javascript'>
+	var width = jQuery(window).width();
+	
+	if(width>=676){
+	//alert('desktop');
+		document.write("<link rel='stylesheet' type='text/css' href='https://www.trifind.com/css/menu-style-desktop.css?ver=20220419' />");
+		
+	}else {
+	//alert('mobile');
+	document.write("<link rel='stylesheet' type='text/css' href='https://www.trifind.com/css/menu-style-mobile.css?ver=20220419' />");
+	}
+</script>
+
+<style>
+.cc-compliance {display:block !important;}
+a.cc-btn.cc-dismiss {
+    float: left !important;
+    display: block !important;
+}
+.cc-deny {float: right !important;   display: block;}
+</style>
+<script async type="text/javascript" src="https://www.trifind.com/js/cookieconsent.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.trifind.com/css/cookieconsent.min.css" />
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#3c96e8",
+      "text": "#ffffff"
+    },
+    "button": {
+      "background": "#d52a27",
+      "text": "#ffffff"
+    }
+  },
+  "type": "opt-out",
+  "content": {
+    "message": "Before using this website you have to accept our Terms of Service, Privacy Policy and Cookie Policy",
+	"deny": "Dismiss",
+    "dismiss": "I accept!",   
+    "link": "Cookie Policy",
+    "href": "https://www.trifind.com/CookiePolicy"
+  }
+})});
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9SRZY2NYQ1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9SRZY2NYQ1');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5591100102882267" crossorigin="anonymous"></script>
+</head>
+<body class="template_body hidecountryselect">
+
+	<!-- /59117104/TF_Outstream -->
+	<!--HIDE FOR NOW UNTIL WE IMPLEMENT
+    <div id='div-gpt-ad-1465218005102-0'>
+        <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465218005102-0'); });
+        </script>
+	</div>-->
+	<div class="row">
+		
+<div id="test" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 header">
+	<div class="container-custom bg-white-container">
+		<div class="col-lg-5 col-md-5 col-sm-4 col-xs-12 logo desktop-view-new">
+
+			<a href="https://www.trifind.com" alt="US Triathlon Calendar, Triathlon Results and Triathlon coaching directory" class="header-logo">
+				<img src="https://www.trifind.com/assets/img/logo_full.png?aa=aa" alt="US Triathlon Calendar, Triathlon Results and Triathlon coaching directory" class="img-fluid" />
+			</a>
+			
+			<div class="social-icons">
+				<ul>
+					<li><a href="https://www.facebook.com/TriFind-Roadracerunner-1667534810192421/" target="_blank"><img src="https://www.trifind.com/images/fb-white.png?f=f" alt ="Trifind triathlon results and triathlon coaching directory | Facebook link" /></a>
+					<!--<li><a href="#"><img src="https://www.trifind.com/images/twitter-white.png?t=t" alt="Trifind triathlon results and triathlon coaching directory | Twitter Link" /></a></li>-->
+				</ul>
+			</div><!-- social-icons -->
+		</div><!-- logo div close-->
+		<div class="col-lg-7 col-md-7 col-sm-8 col-xs-12 banner top_ad_banner hidden-xs hidden-sm">
+			<div class="top_ad_banner_home">
+			<!-- Start of Ad blocker tag -->
+			
+			</div>
+			<!-- End of Ad blocker tag -->
+            
+							<!-- /21949969922/Trifind_ROS_Leaderboard -->
+				<div class="TF_ROS_Leaderboard_home" id='div-gpt-ad-1627573365068-0' style='min-width: 728px; min-height: 90px;'>
+					<script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1627573365068-0'); });
+					</script>
+				</div>
+					</div><!-- banner div close--> 
+		
+					<ul class="list_custom_src pop_src mobile-view-new header-ul-class hidden">
+				<li class="find_by_state">Find by State</li>
+				<li class="find_by_state_input"><label for="StateCalendars-new"></label><select id="StateCalendars-new" class="StateCalendarsheader">
+				<option selected="selected" value="">Select a State</option>
+				<option value="ak">Alaska</option><option value="al">Alabama</option><option value="ar">Arkansas</option><option value="az">Arizona</option><option value="ca">California</option><option value="co">Colorado</option><option value="ct">Connecticut</option><option value="dc">District of Columbia</option><option value="de">Delaware</option><option value="fl">Florida</option><option value="ga">Georgia</option><option value="hi">Hawaii</option><option value="ia">Iowa</option><option value="id">Idaho</option><option value="il">Illinois</option><option value="in">Indiana</option><option value="ks">Kansas</option><option value="ky">Kentucky</option><option value="la">Louisiana</option><option value="ma">Massachusetts</option><option value="md">Maryland</option><option value="me">Maine</option><option value="mi">Michigan</option><option value="mn">Minnesota</option><option value="mo">Missouri</option><option value="ms">Mississippi</option><option value="mt">Montana</option><option value="nc">North Carolina</option><option value="nd">North Dakota</option><option value="ne">Nebraska</option><option value="nh">New Hampshire</option><option value="nj">New Jersey</option><option value="nm">New Mexico</option><option value="nv">Nevada</option><option value="ny">New York</option><option value="oh">Ohio</option><option value="ok">Oklahoma</option><option value="or">Oregon</option><option value="pa">Pennsylvania</option><option value="ri">Rhode Island</option><option value="sc">South Carolina</option><option value="sd">South Dakota</option><option value="tn">Tennessee</option><option value="tx">Texas</option><option value="ut">Utah</option><option value="va">Virginia</option><option value="vt">Vermont</option><option value="wa">Washington</option><option value="wi">Wisconsin</option><option value="wv">West Virginia</option><option value="wy">Wyoming</option>				</select></li>
+			</ul>	
+			
+			<div class="mobile-view-new"></div>
+		
+	</div><!-- container close-->
+	
+<script async type="text/javascript" src="https://www.trifind.com/js/cookie-index.js?v=1.2"></script>
+
+		<div class="res-menus mob-display">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="https://www.trifind.com"><img src="https://www.trifind.com/assets/img/logo_mobile.png" height="36" alt="logo"  /></a>
+			<button id="dropdown" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			
+			
+		</div>
+	
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nav mob-hidden hide-main-menu" id="nav">
+		<div class="container-custom">
+			<ul class="first-list-mn">
+				
+				<li class="find_by_state_1">Find by State</li>
+				
+                    <select id="StateCalendars_1" class="StateCalendars_1_home">
+                    <option selected="selected" value="">Select a State</option>
+                    <option value="ak">Alaska</option><option value="al">Alabama</option><option value="ar">Arkansas</option><option value="az">Arizona</option><option value="ca">California</option><option value="co">Colorado</option><option value="ct">Connecticut</option><option value="dc">District of Columbia</option><option value="de">Delaware</option><option value="fl">Florida</option><option value="ga">Georgia</option><option value="hi">Hawaii</option><option value="ia">Iowa</option><option value="id">Idaho</option><option value="il">Illinois</option><option value="in">Indiana</option><option value="ks">Kansas</option><option value="ky">Kentucky</option><option value="la">Louisiana</option><option value="ma">Massachusetts</option><option value="md">Maryland</option><option value="me">Maine</option><option value="mi">Michigan</option><option value="mn">Minnesota</option><option value="mo">Missouri</option><option value="ms">Mississippi</option><option value="mt">Montana</option><option value="nc">North Carolina</option><option value="nd">North Dakota</option><option value="ne">Nebraska</option><option value="nh">New Hampshire</option><option value="nj">New Jersey</option><option value="nm">New Mexico</option><option value="nv">Nevada</option><option value="ny">New York</option><option value="oh">Ohio</option><option value="ok">Oklahoma</option><option value="or">Oregon</option><option value="pa">Pennsylvania</option><option value="ri">Rhode Island</option><option value="sc">South Carolina</option><option value="sd">South Dakota</option><option value="tn">Tennessee</option><option value="tx">Texas</option><option value="ut">Utah</option><option value="va">Virginia</option><option value="vt">Vermont</option><option value="wa">Washington</option><option value="wi">Wisconsin</option><option value="wv">West Virginia</option><option value="wy">Wyoming</option></select>
+                </li>
+                <li class="home_link_class StateCalendars_1_home"><a href="https://www.trifind.com/">Home</a></li>
+                
+                <li ><a class="navbar-brand mobimg_none none-for-mob" href="https://www.trifind.com"><img src="https://www.trifind.com/images/logo_small.png" alt="logo"  /></a></li>
+                <!--<li  ><a href="https://www.trifind.com/Results/">Triathlon &nbsp;Results</a></li>-->
+				<li><a href="https://www.trifind.com/Races/AdvancedTriathlonSearch" class="dropdown-toggle menu-dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Triathlon &nbsp; Calendar</a>
+						<ul class="dropdown-menu custom-dropdown">
+							<div id="menu">
+								<div class="sub-menu-title sub-menu-title-home"><strong>Find Triathlons by State</strong></div>
+																<a title="Alaska" href="https://www.trifind.com/ak">
+									ak</a>
+									<strong>|</strong>
+																<a title="Alabama" href="https://www.trifind.com/al">
+									al</a>
+									<strong>|</strong>
+																<a title="Arkansas" href="https://www.trifind.com/ar">
+									ar</a>
+									<strong>|</strong>
+																<a title="Arizona" href="https://www.trifind.com/az">
+									az</a>
+									<strong>|</strong>
+																<a title="California" href="https://www.trifind.com/ca">
+									ca</a>
+									<strong>|</strong>
+																<a title="Colorado" href="https://www.trifind.com/co">
+									co</a>
+									<strong>|</strong>
+																<a title="Connecticut" href="https://www.trifind.com/ct">
+									ct</a>
+									<strong>|</strong>
+																<a title="District of Columbia" href="https://www.trifind.com/dc">
+									dc</a>
+									<strong>|</strong>
+																<a title="Delaware" href="https://www.trifind.com/de">
+									de</a>
+									<strong>|</strong>
+																<a title="Florida" href="https://www.trifind.com/fl">
+									fl</a>
+									<strong>|</strong>
+																<a title="Georgia" href="https://www.trifind.com/ga">
+									ga</a>
+									<strong>|</strong>
+																<a title="Hawaii" href="https://www.trifind.com/hi">
+									hi</a>
+									<strong>|</strong>
+																<a title="Iowa" href="https://www.trifind.com/ia">
+									ia</a>
+									<strong>|</strong>
+																<a title="Idaho" href="https://www.trifind.com/id">
+									id</a>
+									<strong>|</strong>
+																<a title="Illinois" href="https://www.trifind.com/il">
+									il</a>
+									<strong>|</strong>
+																<a title="Indiana" href="https://www.trifind.com/in">
+									in</a>
+									<strong>|</strong>
+																<a title="Kansas" href="https://www.trifind.com/ks">
+									ks</a>
+									<strong>|</strong>
+																<a title="Kentucky" href="https://www.trifind.com/ky">
+									ky</a>
+									<strong>|</strong>
+																<a title="Louisiana" href="https://www.trifind.com/la">
+									la</a>
+									<strong>|</strong>
+																<a title="Massachusetts" href="https://www.trifind.com/ma">
+									ma</a>
+									<strong>|</strong>
+																<a title="Maryland" href="https://www.trifind.com/md">
+									md</a>
+									<strong>|</strong>
+																<a title="Maine" href="https://www.trifind.com/me">
+									me</a>
+									<strong>|</strong>
+																<a title="Michigan" href="https://www.trifind.com/mi">
+									mi</a>
+									<strong>|</strong>
+																<a title="Minnesota" href="https://www.trifind.com/mn">
+									mn</a>
+									<strong>|</strong>
+																<a title="Missouri" href="https://www.trifind.com/mo">
+									mo</a>
+									<strong>|</strong>
+																<a title="Mississippi" href="https://www.trifind.com/ms">
+									ms</a>
+									<strong>|</strong>
+																<a title="Montana" href="https://www.trifind.com/mt">
+									mt</a>
+									<strong>|</strong>
+																<a title="North Carolina" href="https://www.trifind.com/nc">
+									nc</a>
+									<strong>|</strong>
+																<a title="North Dakota" href="https://www.trifind.com/nd">
+									nd</a>
+									<strong>|</strong>
+																<a title="Nebraska" href="https://www.trifind.com/ne">
+									ne</a>
+									<strong>|</strong>
+																<a title="New Hampshire" href="https://www.trifind.com/nh">
+									nh</a>
+									<strong>|</strong>
+																<a title="New Jersey" href="https://www.trifind.com/nj">
+									nj</a>
+									<strong>|</strong>
+																<a title="New Mexico" href="https://www.trifind.com/nm">
+									nm</a>
+									<strong>|</strong>
+																<a title="Nevada" href="https://www.trifind.com/nv">
+									nv</a>
+									<strong>|</strong>
+																<a title="New York" href="https://www.trifind.com/ny">
+									ny</a>
+									<strong>|</strong>
+																<a title="Ohio" href="https://www.trifind.com/oh">
+									oh</a>
+									<strong>|</strong>
+																<a title="Oklahoma" href="https://www.trifind.com/ok">
+									ok</a>
+									<strong>|</strong>
+																<a title="Oregon" href="https://www.trifind.com/or">
+									or</a>
+									<strong>|</strong>
+																<a title="Pennsylvania" href="https://www.trifind.com/pa">
+									pa</a>
+									<strong>|</strong>
+																<a title="Rhode Island" href="https://www.trifind.com/ri">
+									ri</a>
+									<strong>|</strong>
+																<a title="South Carolina" href="https://www.trifind.com/sc">
+									sc</a>
+									<strong>|</strong>
+																<a title="South Dakota" href="https://www.trifind.com/sd">
+									sd</a>
+									<strong>|</strong>
+																<a title="Tennessee" href="https://www.trifind.com/tn">
+									tn</a>
+									<strong>|</strong>
+																<a title="Texas" href="https://www.trifind.com/tx">
+									tx</a>
+									<strong>|</strong>
+																<a title="Utah" href="https://www.trifind.com/ut">
+									ut</a>
+									<strong>|</strong>
+																<a title="Virginia" href="https://www.trifind.com/va">
+									va</a>
+									<strong>|</strong>
+																<a title="Vermont" href="https://www.trifind.com/vt">
+									vt</a>
+									<strong>|</strong>
+																<a title="Washington" href="https://www.trifind.com/wa">
+									wa</a>
+									<strong>|</strong>
+																<a title="Wisconsin" href="https://www.trifind.com/wi">
+									wi</a>
+									<strong>|</strong>
+																<a title="West Virginia" href="https://www.trifind.com/wv">
+									wv</a>
+									<strong>|</strong>
+																<a title="Wyoming" href="https://www.trifind.com/wy">
+									wy</a>
+									<strong>|</strong>
+									
+								<div class="sub-menu-title"><strong>Find Triathlons by Type:</strong></div>
+								<a href="https://www.trifind.com/gs_beginner/BeginnerTriathlons">Beginner Triathlons</a>&nbsp;<strong>|</strong>
+								<a href="https://www.trifind.com/gs_sprint/SprintTriathlons">Sprint Triathlons</a>&nbsp;<strong>|</strong>
+								<a href="https://www.trifind.com/gs_olympic/OlympicTriathlons">Olympic Triathlons</a>&nbsp;<strong>|</strong>
+								<a href="https://www.trifind.com/gs_women/WomensTriathlons">Women Triathlons</a>&nbsp;<strong>|</strong><br>
+								<a href="https://www.trifind.com/gs_kids/KidsTriathlons">Kids Triathlons</a>&nbsp;<strong>|</strong>
+								<a href="https://www.trifind.com/gs_offroad/OffroadTriathlons">Offroad Triathlons</a>&nbsp;<strong>|</strong>
+								<a href="https://www.trifind.com/iron-h">Half/Long Triathlons</a>&nbsp;<strong>|</strong> 
+								<a href="https://www.trifind.com/gs_iron/FullIronDistanceTriathlons">Full/Ultra Triathlons</a>&nbsp;
+								<div class="sub-menu-title"><strong>More Search Options:</strong></h3>
+								Create a custom search with our <a title="Triathlon Search"  class="Search_home" href="https://www.trifind.com/Races/AdvancedTriathlonSearch">Advanced Triathlon Search</a> tool.
+							</div>
+						 </ul>	
+					</li>
+				<li class="hidden-sm hidden-md hidden-lg" >
+                    <a href="https://www.trifind.com/Races/AdvancedTriathlonSearch">Advanced Event Search</a>
+                </li>
+				<li >
+                    <a href="https://www.trifind.com/Coaches/FindATriathlonCoach">Find &nbsp;a&nbsp; Triathlon &nbsp;Coach</a>
+                </li>
+				<li >
+				    <a href="https://www.trifind.com/Clubs/FindATriathlonClub">Find &nbsp;a&nbsp; Triathlon &nbsp;Club</a>
+                </li> 
+				
+				<li class="spc-btm3 triath_news_1 StateCalendars_1_home"><a href="https://www.trifind.com/Content/TriathlonNews">Triathlon News</a></li>
+                <li class="spc-btm3 add_your_event_1 StateCalendars_1_home"><a href="https://www.trifind.com/racefeed/add">Add Your Event</a></li>
+                <li class="spc-btm3 mytrifind_link_1 StateCalendars_1_home" ><a href="https://www.trifind.com/MyTriFind/">MyTriFind</a></li>
+                <!--<li><a href="/blog/"  class="dropdown-toggle menu-dropdown" role="button" aria-haspopup="true" >Magazine</a>
+					<ul class="dropdown-menu custom-dropdown magazinedrop">
+							<span class="maga_val"><a href="/blog/category/cycling/">Cycling</a></span>
+							<span class="maga_val"><a href="/blog/category/fitness/">Fitness</a></span>
+							<span class="maga_val"><a href="/blog/category/news-stories/">News &amp; Stories</a></span>
+							<span class="maga_val"><a href="/blog/category/nutrition/">Nutrition</a></span>
+							<span class="maga_val"><a href="/blog/category/running/">Running</a></span>
+							<span class="maga_val"><a href="/blog/category/swimming/">Swimming</a></span>
+							<span class="maga_val"><a href="/blog/category/triathlon/">Triathlon</a></span>
+					</ul>
+				</li>-->
+				<li><a  class="" href="https://www.trifind.com/racefeed/add"  >Add Event</a>	</li>
+									<li><a  class="" href="https://www.trifind.com/MyTriFind/Login"  >Login / Register</a>	</li>	
+								<li class="hidden-sm hidden-md hidden-lg"><a href="#" class="dropdown-toggle menu-dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >News &amp; Info</a>
+					<ul class="dropdown-menu">
+						<li><a href="/Content/TriathlonNews">Triathlon News</a></li>
+						<li><a href="/Content/HistoryOfTriathlon">History of Triathlon</a></li>
+						<li><a href="/Content/BeginnerTriathlonInfo">Tips for Beginners</a></li>
+						<li><a href="/Content/SpellList">Triathlon Spelling</a></li>
+					</ul>
+				</li>
+				<li class="hidden-sm hidden-md hidden-lg"><a href="#" class="dropdown-toggle menu-dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Triathlon Media</a>
+					<ul class="dropdown-menu">
+						<li><a href="/TriathlonMagazine">Triathlon Magazines</a></li>
+						<li><a href="/TriathlonVideo">Triathlon Videos</a></li>
+						<li><a href="/books/"> Triathlon Books</a></li>
+						<li><a href="/books/swim"> Swimming Books</a></li>
+						<li><a href="/books/bike"> Cycling Books</a></li>
+						<li><a href="/books/run"> Running Books</a></li>
+						<li><a href="/books/women"> Women's Books</a></li>	
+					</ul>
+				</li>
+			</ul>
+		</div><!-- nav close-->
+	</div><!-- container close-->
+
+	</div>
+</div><!-- header close-->
+
+		
+        <div class="container-custom">
+			
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 left-sidebar" id="left_side_n">
+	
+	<!-- TF_HP_Main -->
+	<!-- TF_HP_LeftSidebar -->
+	        <!-- /21949969922/Trifind_TL -->
+        <div class='add1 short_ads'>
+        <center>
+        <div id='div-gpt-ad-1623850723240-0' style='min-width: 300px; min-height: 250px;'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1623850723240-0'); });
+            </script>
+        </div>
+        </center>
+        </div>
+	
+		
+	<div class="left-sidebar-content hidden-xs ">
+		<h3 class="for-fullscreen">My TriFind</h3>
+		<ul class="for-fullscreen ">
+					<li><a href="https://www.trifind.com/MyTriFind/Login">Login / Register</a></li>
+			<li class="mob-hidden hide-main-menu"><a href="https://www.trifind.com/MyTriFind/">My Trifind</a></li>
+				</ul>
+		<div class="racecalendarleft">
+			<h3>Race Calendars</h3>
+						<ul class="list_custom_src pop_src">
+				<li class="find_by_state mob-hidden hide-main-menu">Find by State</li>
+				<li class="mob-hidden hide-main-menu"><label for="StateCalendars"></label><select id="StateCalendars">
+				<option selected="selected" value="">Select a State</option>
+				<option value="ak">Alaska</option><option value="al">Alabama</option><option value="ar">Arkansas</option><option value="az">Arizona</option><option value="ca">California</option><option value="co">Colorado</option><option value="ct">Connecticut</option><option value="dc">District of Columbia</option><option value="de">Delaware</option><option value="fl">Florida</option><option value="ga">Georgia</option><option value="hi">Hawaii</option><option value="ia">Iowa</option><option value="id">Idaho</option><option value="il">Illinois</option><option value="in">Indiana</option><option value="ks">Kansas</option><option value="ky">Kentucky</option><option value="la">Louisiana</option><option value="ma">Massachusetts</option><option value="md">Maryland</option><option value="me">Maine</option><option value="mi">Michigan</option><option value="mn">Minnesota</option><option value="mo">Missouri</option><option value="ms">Mississippi</option><option value="mt">Montana</option><option value="nc">North Carolina</option><option value="nd">North Dakota</option><option value="ne">Nebraska</option><option value="nh">New Hampshire</option><option value="nj">New Jersey</option><option value="nm">New Mexico</option><option value="nv">Nevada</option><option value="ny">New York</option><option value="oh">Ohio</option><option value="ok">Oklahoma</option><option value="or">Oregon</option><option value="pa">Pennsylvania</option><option value="ri">Rhode Island</option><option value="sc">South Carolina</option><option value="sd">South Dakota</option><option value="tn">Tennessee</option><option value="tx">Texas</option><option value="ut">Utah</option><option value="va">Virginia</option><option value="vt">Vermont</option><option value="wa">Washington</option><option value="wi">Wisconsin</option><option value="wv">West Virginia</option><option value="wy">Wyoming</option>				</select></li>
+			
+				<li class="li-sp1"><a href="https://www.trifind.com/Races/AdvancedTriathlonSearch">Custom Search</a></li>
+				<li><a href="https://www.trifind.com/Races/InternationalTriathlons">International Races</a></li>
+				<li class="search_pop li-sp2 parent-menu"><h5 class="a_title b_title">Popular Searches</h5>
+					<div id="child-one" class="sub-menu-blk popular-search active-child-menu">
+						<ul class="ul-list1 bgnr-ul-list">
+							<li><a href="https://www.trifind.com/gs_beginner/BeginnerTriathlons"> Beginner Triathlons</a></li>
+							<li><a href="https://www.trifind.com/gs_sprint/SprintTriathlons"> Sprint Triathlons</a></li>
+							<li><a href="https://www.trifind.com/gs_olympic/OlympicTriathlons"> Olympic Triathlons</a></li>
+							<li><a href="https://www.trifind.com/gs_women/WomensTriathlons"> Women Triathlons</a></li>
+							<li><a href="https://www.trifind.com/gs_kids/KidsTriathlons"> Kids Triathlons</a></li>
+						</ul>
+						<ul class="ul-list1_2 off-list-ul">
+							<li><a href="https://www.trifind.com/gs_offroad/OffroadTriathlons"> Offroad Triathlons</a></li>
+							<li><a href="https://www.trifind.com/gs_mud/ObstacleMudRuns"> Obstacle/Mud Runs</a></li>
+							<li><a href="https://www.trifind.com/iron-h"> Half/Long Triathlons</a></li>
+							<li><a href="https://www.trifind.com/gs_iron/FullIronDistanceTriathlons"> Full/Ultra Triathlons</a></li>
+						</ul>
+					</div>
+				</li>
+                <li class="search_pop li-sp2 parent-menu"><h5 class="a_title b_title">Events by Sport</h5>
+					<div id="child-two" class="sub-menu-blk popular-search active-child-menu">
+                        <ul class="ul-list1 run-list-ul"> 
+                            <li><a href="https://www.trifind.com/gs_running/RunningRaces"> Running</a></li>
+                            <li><a href="https://www.trifind.com/gs_cycling/CyclingEvents"> Cycling</a></li>
+                            <li><a href="https://www.trifind.com/gs_swimming/SwimmingEvents"> Swimming</a></li>
+                            <li><a href="https://www.trifind.com/gs_adventure/AdventureRaces"> Adventure Races</a></li>
+                            <li><a href="https://www.trifind.com/gs_triathlon/TriathlonCalendar"> Triathlons</a></li>
+                        </ul>
+                        <ul class="ul-list1_2 duathlon-list-ul">
+                            <li><a href="https://www.trifind.com/gs_duathlon/DuathlonRaces"> Duathlons</a></li>
+                            <li><a href="https://www.trifind.com/gs_aquathlon/AquathlonRaces"> Aquathlons</a></li>
+                            <li><a href="https://www.trifind.com/gs_aquabike/AquabikeRaces"> Aquabike</a></li>
+                            <li><a href ="https://www.trifind.com/gs_other/MultiSportCalendar"> Other</a></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>	
+	</div>
+				
+</div><!--left-sidebar close-->
+
+
+<script type="text/javascript">
+
+function parentclass(a){jsquery("#"+a).hasClass("active-child-menu")?jsquery("#"+a).removeClass("active-child-menu"):jsquery("#"+a).addClass("active-child-menu")}var jsquery=jQuery.noConflict(),childcolm;
+</script>
+			
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 center-container">
+
+						
+				<div class="content-box user-head-top">
+									</div>
+    
+
+				
+
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 content-box custom-search-page">
+	<div class="breadcrumb-section social-txt">
+		<p><strong> <a href="https://www.trifind.com"> Home </a>&raquo;  Triathlons in Colorado</strong></p>
+	</div>
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-page state-page">
+		<h3 class="mb-10 text-center">
+			 Triathlons in Colorado		</h3>
+		
+		<p class="by_state_heading" style="text-align: center; font-size: 20px; font-weight: 700;margin:30px 0 0 0;"></p>
+			
+		<!-- /21949969922/TF_Top -->
+		<center>
+			<div id='div-gpt-ad-1627760928799-0' style='min-width: 300px; min-height: 250px;'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1627760928799-0'); });
+				</script>
+			</div>
+		</center>
+			
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-box-full">									
+			<div class="filter-box collapse" id="filterBox">
+				<h5 class="text-center">Filter Results</h5>
+				<form>
+					<input name="usat" value="false" type="hidden">
+					<h6 class="text-center">Filter Events by Year/Month:</h6>
+					<div class="form-group">
+						<select name="year" class="form-control">
+							<option value="">Select a Year</option>
+														<option value="2027">2027</option>
+														<option value="2026">2026</option>
+														<option value="2025">2025</option>
+														<option value="2024">2024</option>
+														<option value="2023">2023</option>
+														<option value="2022">2022</option>
+														<option value="2021">2021</option>
+														<option value="2020">2020</option>
+														<option value="2019">2019</option>
+														<option value="2018">2018</option>
+														<option value="2017">2017</option>
+														<option value="2016">2016</option>
+														<option value="2015">2015</option>
+														<option value="2014">2014</option>
+														<option value="2013">2013</option>
+														<option value="2012">2012</option>
+														<option value="2011">2011</option>
+														<option value="2010">2010</option>
+														<option value="2009">2009</option>
+														<option value="2008">2008</option>
+														<option value="2007">2007</option>
+														<option value="2006">2006</option>
+														<option value="2005">2005</option>
+														<option value="2004">2004</option>
+													</select>
+					</div>
+					
+					<div class="form-group">
+						<select name="month" class="form-control">
+															<option  selected="selected" value="0">
+									All Months								</option>
+															<option  value="1">
+									January								</option>
+															<option  value="2">
+									February								</option>
+															<option  value="3">
+									March								</option>
+															<option  value="4">
+									April								</option>
+															<option  value="5">
+									May								</option>
+															<option  value="6">
+									June								</option>
+															<option  value="7">
+									July								</option>
+															<option  value="8">
+									August								</option>
+															<option  value="9">
+									September								</option>
+															<option  value="10">
+									October								</option>
+															<option  value="11">
+									November								</option>
+															<option  value="12">
+									December								</option>
+													</select>
+					</div>
+											<div class="form-group">
+							<div class="checkbox text-left">
+								<label data-toggle="popover" data-placement="bottom" title="USAT Sanctioned Races" data-content="Check here to view races sanctioned by USA Triathlon, the National Governing Body committed to supporting local races of all sizes and types!">
+									<input name="usat" value="true" type="checkbox" > Show Only USAT Sanctioned Events
+								</label>
+							</div>
+						</div>
+										<div class="form-group">
+						<div class="subbtn"><input type="submit" value="GO!" class='seach-button'></div>
+					</div>
+				</form>
+			</div><!--filter box close-->
+			
+			<div class="scroll_div_by_state"></div>
+
+			<script>
+function initialize(lat1,lng1,loc,id) {
+	/*document.getElementById("googleMap").style.display = "block";
+	 jQuery('html, body').animate({
+         scrollTop: jQuery("#googlemaptopdiv").offset().top
+    }, 2000);*/
+
+  
+    var myLatLng = new google.maps.LatLng(lat1, lng1);
+
+    var map = new google.maps.Map(document.getElementById(id), {
+        zoom: 10,
+        center: myLatLng
+    });
+
+    var marker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        title: loc
+    });
+
+	jQuery('#'+id).collapse('show');
+    //var map=new google.maps.Map(document.getElementById("googleMap"),map);
+
+				
+}
+
+function showLargeMap(){
+	if(jQuery('#list-gmap').html() != ''){
+		jQuery('#list-gmap').collapse('show');
+		return;
+	}
+	//check to see if gmap was already 
+	var locations = [];
+
+	jQuery('a.event-show-map').each(function(i){
+		var lat = jQuery(this).data('latitude');
+		var lng = jQuery(this).data('longitude');
+		var loc = jQuery(this).data('location');
+		var title = jQuery(this).data('title');
+		var race_id = jQuery(this).data('race-id');
+		var date = jQuery(this).data('date');
+		locations[i] = [loc,lat,lng,title,race_id,date];
+	});
+    
+    var map = new google.maps.Map(document.getElementById('list-gmap'), {
+      zoom: 10,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+    
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+    var bounds = new google.maps.LatLngBounds();
+	
+    for (i = 0; i < locations.length; i++) {  
+		var new_marker = new google.maps.LatLng(locations[i][1], locations[i][2]);
+		marker = new google.maps.Marker({
+			position: new_marker,
+			map: map
+		});
+
+		google.maps.event.addListener(marker, 'click', (function(marker, i) {
+			var text = '<h5>' + locations[i][3] + '</h4><h5>' + locations[i][5] + '</h5><h5>' + locations[i][0] + '</h5>';
+			text += '<a href="#race-' + locations[i][4] + '" class="btn btn-sm btn-primary smooth-scroll">View Race</a>';
+			return function() {
+				infowindow.setContent(text);
+				infowindow.open(map, marker);
+			}
+		})(marker, i));
+
+		bounds.extend(new_marker);
+	}
+
+	map.fitBounds(bounds);
+
+	jQuery('#list-gmap').collapse('show');
+}
+
+//google.maps.event.addDomListener(window, 'load', initialize);
+jQuery(document).ready(function() {
+	jQuery('a.event-show-map').on('click',function(e){
+		e.preventDefault();
+		var lat = jQuery(this).data('latitude');
+		var lng = jQuery(this).data('longitude');
+		var loc = jQuery(this).data('location');
+		var map_id = jQuery(this).data('map-id');
+		if(jQuery('#'+map_id).is('.collapse:not(.in)')) {
+			initialize(lat,lng,loc,map_id);
+		}else{
+			jQuery('#'+map_id).collapse('hide')
+		}
+	});
+
+	jQuery('a.show-list-map').on('click',function(e){
+		e.preventDefault();
+		
+		if(jQuery('#list-gmap').is('.collapse:not(.in)')) {
+			showLargeMap();
+		}else{
+			jQuery('#list-gmap').collapse('hide')
+		}
+	});
+
+	jQuery('body').on('click','a.smooth-scroll',function(e){
+		e.preventDefault();
+		var id = jQuery(this).attr('href');
+		jQuery('html, body').animate({
+			scrollTop: (jQuery(id).offset().top - 80)
+		}, 2000);
+	})
+});
+</script>
+
+
+
+
+
+
+
+
+	<div class="pagination-full row mb-20 mt-20 py-10">
+		<div class="col-lg-6 text-center text-xl-left">
+												<p><span><b>
+						41 Events Found					</span></p>
+										
+		</div>
+		<div class="col-lg-6 text-right text-center text-xl-right">
+			<a class="show-filter btn btn-primary btn-sm" data-toggle="collapse" href="#filterBox" role="button" aria-expanded="false" aria-controls="filterBox">Filter Results</a>
+			<a href="#" class="show-list-map btn btn-primary btn-sm">Show Map</a><br>
+			<ul class="pagination pagination-sm mb-0 mt-10">
+				<li class=" active page-item"><a>1</a></li><li class="page-item"><a href="/co?page=2&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0">2</a></li><li class="page-item"><a href="/co?page=3&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0">3</a></li><li class="page-item"><a href="/co?page=4&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0">4</a></li><li class="page-item"><a href="/co?page=2&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0" rel="next">»</a></li> 			</ul>
+			
+		</div>
+		
+
+	</div><!--pagination-full close-->
+
+
+	<div id="list-gmap" class="collapse"></div>
+
+	<div class="date-event-full">
+
+		
+	<div class="date-event-whole">
+				
+			<div class="panel panel-info clearfix" id="race-745217">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745217/2025IRONMAN703Boulder" 
+									title="2025 IRONMAN 70.3 Boulder">
+									
+									2025 IRONMAN 70.3 Boulder								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sat, Jun 14, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="40.0739"
+								data-longitude="-105.237"
+								data-location="Boulder, Colorado (Boulder Reservoir)"
+								data-title="2025 IRONMAN 70.3 Boulder"
+								data-race-id="745217"
+								data-map-id="gmap-745217"
+								data-date="Sat, Jun 14, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Boulder,  
+							Colorado						</b> (Boulder Reservoir)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745217"></div>
+											<div class="row">
+							<div class="col-md-8">
+								<div class="table-responsive">
+									<table class="table table-striped table-hover table-condensed">
+																					<tr>
+												<td>
+													<b>Half IronMan Triathlon 70.3 </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Triathlon</b> : Swim 1.2 Miles, Bike 56 Miles, Run 13.1 Miles												</td>
+											</tr>
+																			</table>
+								</div>
+							</div>
+							<div class="col-md-4 pt-20 pt-md-0">
+								<a href="https://www.teamusa.org/USA-Triathlon/Value-of-Sanctioned-Races" target="_blank">
+									<img src="/images/usat-logo.png" class="img-responsive center-block" />
+								</a>
+							</div>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 IRONMAN 70.3 Boulder" href="https://www.trifind.com/re_745217/2025IRONMAN703Boulder" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-746368">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_746368/2025SanJuanTrailTri" 
+									title="2025 San Juan Trail Tri">
+									
+									2025 San Juan Trail Tri								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sat, Jun 14, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="38.2292"
+								data-longitude="-107.747"
+								data-location="Ridgway, Colorado (Dallas Creek Day Use Entrance at Ridgway State Park)"
+								data-title="2025 San Juan Trail Tri"
+								data-race-id="746368"
+								data-map-id="gmap-746368"
+								data-date="Sat, Jun 14, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Ridgway,  
+							Colorado						</b> (Dallas Creek Day Use Entrance at Ridgway State Park)
+					</span>
+					<div class="event-gmap collapse" id="gmap-746368"></div>
+											<div class="table-responsive">
+							<table class="table table-striped table-hover table-condensed">
+																	<tr>
+										<td>
+											<b>Off Road Triathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Triathlon</b> : Trail Run 3.7 Miles, SUP Paddle 2 Miles, Mountain Bike 8.7 Miles, 										</td>
+									</tr>
+															</table>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 San Juan Trail Tri" href="https://www.trifind.com/re_746368/2025SanJuanTrailTri" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745606">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745606/2025BoulderStrokeStrideJune19" 
+									title="2025 Boulder Stroke &amp; Stride - June 19">
+									
+									2025 Boulder Stroke &amp; Stride - June 19								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Thu, Jun 19, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="40.0763"
+								data-longitude="-105.222"
+								data-location="Boulder, Colorado (Boulder Reservoir)"
+								data-title="2025 Boulder Stroke & Stride - June 19"
+								data-race-id="745606"
+								data-map-id="gmap-745606"
+								data-date="Thu, Jun 19, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Boulder,  
+							Colorado						</b> (Boulder Reservoir)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745606"></div>
+											<div class="table-responsive">
+							<table class="table table-striped table-hover table-condensed">
+																	<tr>
+										<td>
+											<b>Sprint Aquathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Aquathlon</b> : Swim 800 Meters, Run 3.1 Miles										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>Stroke & Stride Aquathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Aquathlon</b> : Swim 1600 Meters, Run 3.1 Miles										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>1/2 Mile Swim </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Swimming</b> : 800 Meters										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>1 Mile Swim </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Swimming</b> : 1 Mile Swim										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>5K Run </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Running</b> : Run 3.1 Miles										</td>
+									</tr>
+															</table>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Boulder Stroke &amp; Stride - June 19" href="https://www.trifind.com/re_745606/2025BoulderStrokeStrideJune19" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745215">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745215/2025XterraLoryOffRoadTriathlon" 
+									title="2025 Xterra Lory Off Road Triathlon">
+									
+									2025 Xterra Lory Off Road Triathlon								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sat, Jun 21, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="40.5903"
+								data-longitude="-105.184"
+								data-location="Bellvue, Colorado (Lory State Park)"
+								data-title="2025 Xterra Lory Off Road Triathlon"
+								data-race-id="745215"
+								data-map-id="gmap-745215"
+								data-date="Sat, Jun 21, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Bellvue,  
+							Colorado						</b> (Lory State Park)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745215"></div>
+											<div class="row">
+							<div class="col-md-8">
+								<div class="table-responsive">
+									<table class="table table-striped table-hover table-condensed">
+																					<tr>
+												<td>
+													<b>Off Road Triathlon </b>: Off Road												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Triathlon</b> : Swim 1/2 Mile, Mountain Bike 12 Miles, Trail Run 5 Miles												</td>
+											</tr>
+																					<tr>
+												<td>
+													<b>Stand Up Paddleboard Tri </b>: Off Road												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Triathlon</b> : SUP 1/2 Mile, Mountain Bike 12 Miles, Trail Run 5 Miles												</td>
+											</tr>
+																			</table>
+								</div>
+							</div>
+							<div class="col-md-4 pt-20 pt-md-0">
+								<a href="https://www.teamusa.org/USA-Triathlon/Value-of-Sanctioned-Races" target="_blank">
+									<img src="/images/usat-logo.png" class="img-responsive center-block" />
+								</a>
+							</div>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Xterra Lory Off Road Triathlon" href="https://www.trifind.com/re_745215/2025XterraLoryOffRoadTriathlon" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745216">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745216/2025LovelandLaketoLakeTriathlon" 
+									title="2025 Loveland Lake to Lake Triathlon">
+									
+									2025 Loveland Lake to Lake Triathlon								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sat, Jun 21, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="40.4298"
+								data-longitude="-105.045"
+								data-location="Loveland, Colorado ()"
+								data-title="2025 Loveland Lake to Lake Triathlon"
+								data-race-id="745216"
+								data-map-id="gmap-745216"
+								data-date="Sat, Jun 21, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Loveland,  
+							Colorado						</b> ()
+					</span>
+					<div class="event-gmap collapse" id="gmap-745216"></div>
+											<div class="row">
+							<div class="col-md-8">
+								<div class="table-responsive">
+									<table class="table table-striped table-hover table-condensed">
+																					<tr>
+												<td>
+													<b>Olympic Triathlon    </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Triathlon</b> : Swim 1500 Meters, Bike 30 Miles, Run 6.2 Miles												</td>
+											</tr>
+																					<tr>
+												<td>
+													<b>Sprint Triathlon             </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Triathlon</b> : Swim 800 Yards, Bike 15 Miles, Run 3.1 Miles												</td>
+											</tr>
+																					<tr>
+												<td>
+													<b>Olympic Aquabike </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Aquabike</b> : Swim 1500 Meters, Bike 30 Miles												</td>
+											</tr>
+																			</table>
+								</div>
+							</div>
+							<div class="col-md-4 pt-20 pt-md-0">
+								<a href="https://www.teamusa.org/USA-Triathlon/Value-of-Sanctioned-Races" target="_blank">
+									<img src="/images/usat-logo.png" class="img-responsive center-block" />
+								</a>
+							</div>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Loveland Lake to Lake Triathlon" href="https://www.trifind.com/re_745216/2025LovelandLaketoLakeTriathlon" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745615">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745615/2025TRYathlonCentennial" 
+									title="2025 TRYathlon - Centennial">
+									
+									2025 TRYathlon - Centennial								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sun, Jun 22, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="39.5999"
+								data-longitude="-104.958"
+								data-location="Centennial, Colorado (Goodson Recreation Center/deKoevend Park)"
+								data-title="2025 TRYathlon - Centennial"
+								data-race-id="745615"
+								data-map-id="gmap-745615"
+								data-date="Sun, Jun 22, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Centennial,  
+							Colorado						</b> (Goodson Recreation Center/deKoevend Park)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745615"></div>
+											<div class="table-responsive">
+							<table class="table table-striped table-hover table-condensed">
+																	<tr>
+										<td>
+											<b>Mini Sprint Triathlon (all ages) </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Triathlon</b> : Swim 150 Yards, Bike 6 Miles, Run 3 Miles										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>Youth Triathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Triathlon</b> : Distances Determined By Age										</td>
+									</tr>
+															</table>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 TRYathlon - Centennial" href="https://www.trifind.com/re_745615/2025TRYathlonCentennial" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745607">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745607/2025BoulderStrokeStrideJune26" 
+									title="2025 Boulder Stroke &amp; Stride - June 26">
+									
+									2025 Boulder Stroke &amp; Stride - June 26								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Thu, Jun 26, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="40.0763"
+								data-longitude="-105.222"
+								data-location="Boulder, Colorado (Boulder Reservoir)"
+								data-title="2025 Boulder Stroke & Stride - June 26"
+								data-race-id="745607"
+								data-map-id="gmap-745607"
+								data-date="Thu, Jun 26, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Boulder,  
+							Colorado						</b> (Boulder Reservoir)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745607"></div>
+											<div class="table-responsive">
+							<table class="table table-striped table-hover table-condensed">
+																	<tr>
+										<td>
+											<b>Sprint Aquathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Aquathlon</b> : Swim 800 Meters, Run 3.1 Miles										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>Stroke & Stride Aquathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Aquathlon</b> : Swim 1600 Meters, Run 3.1 Miles										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>1/2 Mile Swim </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Swimming</b> : 800 Meters										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>1 Mile Swim </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Swimming</b> : 1 Mile Swim										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>5K Run </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Running</b> : Run 3.1 Miles										</td>
+									</tr>
+															</table>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Boulder Stroke &amp; Stride - June 26" href="https://www.trifind.com/re_745607/2025BoulderStrokeStrideJune26" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745221">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745221/2025BoulderSunriseTriathlon" 
+									title="2025 Boulder Sunrise Triathlon">
+									
+									2025 Boulder Sunrise Triathlon								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sun, Jun 29, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="40.015"
+								data-longitude="-105.271"
+								data-location="Boulder, Colorado (Boulder Reservoir)"
+								data-title="2025 Boulder Sunrise Triathlon"
+								data-race-id="745221"
+								data-map-id="gmap-745221"
+								data-date="Sun, Jun 29, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Boulder,  
+							Colorado						</b> (Boulder Reservoir)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745221"></div>
+											<div class="row">
+							<div class="col-md-8">
+								<div class="table-responsive">
+									<table class="table table-striped table-hover table-condensed">
+																					<tr>
+												<td>
+													<b>Olympic Triathlon </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Triathlon</b> : Swim 1500 Meters, Bike 26.4 Miles, Run 6.2 Miles												</td>
+											</tr>
+																					<tr>
+												<td>
+													<b>Olympic Aquabike </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Aquabike</b> : Swim 1500 Meters, Bike 26.4 Miles												</td>
+											</tr>
+																					<tr>
+												<td>
+													<b>Sprint Triathlon </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Triathlon</b> : Swim 750 Meters, Bike 17.3 Miles, Run 3.1 Miles												</td>
+											</tr>
+																					<tr>
+												<td>
+													<b>Sprint Duathlon </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Duathlon</b> : Run ? Miles, Bike 17.3 Miles, Run 3.1 Miles												</td>
+											</tr>
+																			</table>
+								</div>
+							</div>
+							<div class="col-md-4 pt-20 pt-md-0">
+								<a href="https://www.teamusa.org/USA-Triathlon/Value-of-Sanctioned-Races" target="_blank">
+									<img src="/images/usat-logo.png" class="img-responsive center-block" />
+								</a>
+							</div>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Boulder Sunrise Triathlon" href="https://www.trifind.com/re_745221/2025BoulderSunriseTriathlon" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745608">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745608/2025BoulderStrokeStrideJuly10" 
+									title="2025 Boulder Stroke &amp; Stride - July 10">
+									
+									2025 Boulder Stroke &amp; Stride - July 10								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Thu, Jul 10, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="40.0763"
+								data-longitude="-105.222"
+								data-location="Boulder, Colorado (Boulder Reservoir)"
+								data-title="2025 Boulder Stroke & Stride - July 10"
+								data-race-id="745608"
+								data-map-id="gmap-745608"
+								data-date="Thu, Jul 10, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Boulder,  
+							Colorado						</b> (Boulder Reservoir)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745608"></div>
+											<div class="table-responsive">
+							<table class="table table-striped table-hover table-condensed">
+																	<tr>
+										<td>
+											<b>Sprint Aquathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Aquathlon</b> : Swim 800 Meters, Run 3.1 Miles										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>Stroke & Stride Aquathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Aquathlon</b> : Swim 1600 Meters, Run 3.1 Miles										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>1/2 Mile Swim </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Swimming</b> : 800 Meters										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>1 Mile Swim </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Swimming</b> : 1 Mile Swim										</td>
+									</tr>
+																	<tr>
+										<td>
+											<b>5K Run </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Running</b> : Run 3.1 Miles										</td>
+									</tr>
+															</table>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Boulder Stroke &amp; Stride - July 10" href="https://www.trifind.com/re_745608/2025BoulderStrokeStrideJuly10" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745614">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745614/2025FriscoTriathlonFRIDAY" 
+									title="2025 Frisco Triathlon - FRIDAY">
+									
+									2025 Frisco Triathlon - FRIDAY								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Fri, Jul 11, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="32.3182"
+								data-longitude="-86.9023"
+								data-location="Frisco, Colorado (Frisco Bay Marina)"
+								data-title="2025 Frisco Triathlon - FRIDAY"
+								data-race-id="745614"
+								data-map-id="gmap-745614"
+								data-date="Fri, Jul 11, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Frisco,  
+							Colorado						</b> (Frisco Bay Marina)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745614"></div>
+											<div class="table-responsive">
+							<table class="table table-striped table-hover table-condensed">
+																	<tr>
+										<td>
+											<b>SUP Off Road Triathlon </b>: Off Road										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Triathlon</b> : Stand Up Paddle 2 Miles, Mountain Bike 7.4 Miles, Trail Run 3.1 Miles										</td>
+									</tr>
+															</table>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Frisco Triathlon - FRIDAY" href="https://www.trifind.com/re_745614/2025FriscoTriathlonFRIDAY" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-745627">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_745627/2025RaceintheCloudsOffRoadDuathlon" 
+									title="2025 Race in the Clouds - Off Road Duathlon">
+									
+									2025 Race in the Clouds - Off Road Duathlon								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sat, Jul 12, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="39.2839"
+								data-longitude="-106.063"
+								data-location="Alma, Colorado (Alma,  USA)"
+								data-title="2025 Race in the Clouds - Off Road Duathlon"
+								data-race-id="745627"
+								data-map-id="gmap-745627"
+								data-date="Sat, Jul 12, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Alma,  
+							Colorado						</b> (Alma,  USA)
+					</span>
+					<div class="event-gmap collapse" id="gmap-745627"></div>
+											<div class="row">
+							<div class="col-md-8">
+								<div class="table-responsive">
+									<table class="table table-striped table-hover table-condensed">
+																					<tr>
+												<td>
+													<b>Off Road Duathlon </b>: 												</td>
+											</tr>
+											<tr>	
+												<td> 
+													<b>Duathlon</b> : Off Road Duathlon												</td>
+											</tr>
+																			</table>
+								</div>
+							</div>
+							<div class="col-md-4 pt-20 pt-md-0">
+								<a href="https://www.teamusa.org/USA-Triathlon/Value-of-Sanctioned-Races" target="_blank">
+									<img src="/images/usat-logo.png" class="img-responsive center-block" />
+								</a>
+							</div>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Race in the Clouds - Off Road Duathlon" href="https://www.trifind.com/re_745627/2025RaceintheCloudsOffRoadDuathlon" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+				
+			<div class="panel panel-info clearfix" id="race-746370">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8">
+							<strong>
+								<a  
+									href="https://www.trifind.com/re_746370/2025ParkerParksandRecreationKidsTRYathlon" 
+									title="2025 Parker Parks and Recreation Kids' TRY-athlon">
+									
+									2025 Parker Parks and Recreation Kids' TRY-athlon								</a>
+							</strong>
+						</div>
+						<div class="col-md-4 text-md-right">
+							Sat, Jul 12, 2025						</div>
+					</div>
+					
+				</div>
+				<div class="panel-body">
+											<span class="map-hover" style="margin-top:0">
+							<a href="#" id="" class="event-show-map"
+								data-latitude="39.5202"
+								data-longitude="-104.764"
+								data-location="Parker, Colorado (H2O'Brien Pool)"
+								data-title="2025 Parker Parks and Recreation Kids' TRY-athlon"
+								data-race-id="746370"
+								data-map-id="gmap-746370"
+								data-date="Sat, Jul 12, 2025"></a>
+						</span>
+										<span class="location-text">
+						<b>
+							Parker,  
+							Colorado						</b> (H2O'Brien Pool)
+					</span>
+					<div class="event-gmap collapse" id="gmap-746370"></div>
+											<div class="table-responsive">
+							<table class="table table-striped table-hover table-condensed">
+																	<tr>
+										<td>
+											<b>Kids Triathlon </b>: 										</td>
+									</tr>
+									<tr>	
+										<td> 
+											<b>Triathlon</b> : Distance Determined by Age										</td>
+									</tr>
+															</table>
+						</div>
+										
+					
+				</div>
+				<div class="panel-footer">
+					<a title="2025 Parker Parks and Recreation Kids' TRY-athlon" href="https://www.trifind.com/re_746370/2025ParkerParksandRecreationKidsTRYathlon" class="btn btn-default">More Info &gt;&gt;</a>
+									</div>
+			</div>
+
+		
+		
+		
+			
+		</div><!--date-event-main close-->
+		
+		
+
+	</div><!--date-event-whole close-->
+
+			<div class="alert text-center mb-20">
+							<p><span><b>
+					41 Events Found				</span></p>
+					</div>
+	
+	<div class="pagination-full text-center">
+		<ul class="pagination">
+			<li class=" active page-item"><a>1</a></li><li class="page-item"><a href="/co?page=2&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0">2</a></li><li class="page-item"><a href="/co?page=3&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0">3</a></li><li class="page-item"><a href="/co?page=4&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0">4</a></li><li class="page-item"><a href="/co?page=2&amp;sort=Race.date&amp;direction=ASC&amp;month=0&amp;year=&amp;usat=0" rel="next">»</a></li> 		</ul>
+	</div><!--pagination-full close-->
+<script> 
+jQuery(document).on('click','.bookmark_race',function(e){
+	e.preventDefault();
+	if (jQuery(this).hasClass('bookmark_race')) {
+		var race_id= jQuery(this).attr('race_id');
+		var race_name= jQuery(this).attr('race_name');
+		var thisclass=jQuery(this);
+		console.log(race_id);
+		
+		jQuery.ajax({
+			url: 'https://www.trifind.com/Races/bookmarkrace',
+			cache: false,
+			type: 'GET',
+			data: {	'race_id' : race_id, 'race_name': race_name,'class_name':'' },
+			success: function (data) {
+				thisclass.attr('src','https://www.trifind.com/images/bookmark-true.png');
+				thisclass.removeClass('bookmark_race');
+				thisclass.addClass('bookmark-true');
+				thisclass.after("<img style='vertical-align:bottom;margin-left: 10px;' class='unbookmark_race' race_id='"+race_id+"' race_name='"+race_name+"' src='http://www.trifind.com/images/trash-bin.png'/>");
+				alert(data);
+			}
+		});
+	}
+});		
+
+jQuery(document).on('click','.unbookmark_race',function(e){
+ e.preventDefault();
+ if (jQuery(this).hasClass('unbookmark_race')) {
+	var race_id= jQuery(this).attr('race_id');
+	var race_name= jQuery(this).attr('race_name');
+	var class_name= 'unbookmark_race';
+	var thisclass=jQuery(this);
+	
+	jQuery.ajax({
+		url: 'https://www.trifind.com/Races/bookmarkrace',
+		cache: false,
+		type: 'GET',
+		data: {	'race_id' : race_id, 'race_name': race_name, 'class_name':class_name },
+		beforeSend: function() {
+			thisclass.html("Loading...");
+		},
+		success: function (data) {
+			//thisclass.prev().remove();
+			thisclass.prev().addClass('bookmark_race');
+			thisclass.prev('.bookmark-true').attr('src','https://www.trifind.com/images/bookmark-false.png');
+			thisclass.remove();
+
+			//alert(data);
+		}
+	});
+ }
+});
+</script>
+		
+	
+			
+				
+			
+		</div><!--event-box-full close-->
+			
+	</div><!--event-page close-->
+			
+				
+</div><!--content-box close-->
+		
+
+			
+				
+            </div><!--content-box close-->
+        </div>
+			
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 right-sidebar" id="right_side_n">
+	<div class="right-adds">
+					<!-- /21949969922/Trifind_TR -->
+			<div class='add1 short_ads'>
+				<center>
+					<div id='div-gpt-ad-1649627417231-0' style='min-width: 300px; min-height: 250px;'>
+						<script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1649627417231-0'); });
+						</script>
+					</div>
+				</center>
+			</div>
+		
+			</div>
+
+	
+	<div class="hidden-xs hidden-sm info-list-right info-box12">
+		<h3>Race Directors</h3>
+		<ul>
+			<li class="spc-btm3 add_your_event"><a href="https://www.trifind.com/racefeed/add">Add Your Event</a></li>
+			<li><a href="https://www.trifind.com/Advertising/TriFindAdvertising">Advertise on TriFind</a></li>
+		</ul>
+	</div>
+	
+	<div class="right-adds">
+					<div class='add1 short_ads'>
+				<center>
+					<!-- /21949969922/Trifind_MR -->
+					<div id='div-gpt-ad-1651015429966-0' style='min-width: 300px; min-height: 250px;'>
+						<script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1651015429966-0'); });
+						</script>
+					</div>
+				</center>
+			</div>
+		
+			</div>
+
+	<div class="left-sidebar-content-2">
+		<div class="foot_threechild">
+			<h3 onClick="parentclass('child-three')" class="maz_hide">Triathlon Media</h3>
+			<div id="child-three" class="sub-menu-blk maz_hide">
+				<ul class="list_mgz">
+					<li class="spc-btm1"><a href="https://www.trifind.com/TriathlonMagazine">Triathlon Magazines</a></li>
+					<li class="spc-btm2"><a href="https://www.trifind.com/TriathlonVideo">Triathlon Videos</a></li>
+					<li><a href="#">Multisport Books</a>
+					<ul class="ul-list1">
+						<li><a href="https://www.trifind.com/books/"> Triathlon Books</a></li>
+						<li><a href="https://www.trifind.com/books/swim"> Swimming Books</a></li>
+						<li><a href="https://www.trifind.com/books/bike"> Cycling Books</a></li>
+						</ul>
+						<ul class="ul-list1_2">
+						<li><a href="https://www.trifind.com/books/run"> Running Books</a></li>
+						<li><a href="https://www.trifind.com/books/women"> Women's Books</a></li>
+					</ul>
+					</li>		
+				</ul>
+			</div>
+		</div>
+	<!--info-list-right close-->
+	
+		
+		<div class="foot_firstchild">
+			<h3>Our Other Sites</h3>
+			<ul>
+				<li><a href="http://www.RoadRaceRunner.com" target="_blank">RoadRaceRunner.com</a></li>
+				<li><a href="http://www.KidsTri.com" target="_blank">KidsTri.com</a></li>
+				<li><a href="http://www.HerTri.com" target="_blank">HerTri.com</a></li>
+				<li><a href="http://www.mudderjumper.com" target="_blank">Mudderjumper.com</a></li>		
+			</ul>
+		</div>
+		<div class="foot_threechild">
+			<h3>News & Info </h3>
+			<ul>
+				<li class="triath_news"><a href="https://www.trifind.com/Content/TriathlonNews">Triathlon News</a></li>
+				<li><a href="https://www.trifind.com/Content/HistoryOfTriathlon">History of Triathlon</a></li>
+				<li><a href="https://www.trifind.com/Content/BeginnerTriathlonInfo">Tips for Beginners</a></li>
+				<li><a href="https://www.trifind.com/Content/SpellList">Triathlon Spelling</a></li>
+			</ul>	
+		</div>
+	
+</div><!--right-sidebar close-->
+ 
+		
+		</div><!--center-container close-->
+		
+	</div><!-- container close-->
+	<!--<div class="col-lg-12 newsletter-subscription">
+	<div>
+		<form class="es_shortcode_form" id="custom_subscription_frm_id">
+			<span class="signup-text">Sign Up and Get an Exclusive News</span>
+			<div class="es_msg">
+				<span id="es_msg_pg"></span>
+			</div>
+			<div class="es_textbox">
+			
+				<input class="es_textbox_class" name="es_txt_name_pg" placeholder="Your Name" id="es_txt_name_pg" value="" maxlength="225" type="text">
+			</div>
+			<div class="es_textbox">
+				<input class="es_textbox_class" name="es_txt_email_pg" id="es_txt_email_pg" placeholder="Your Email" value="" required="required" maxlength="225" type="email">
+			</div>
+			<div class="es_button">
+				<input class="es_textbox_button" name="es_txt_button_pg" id="es_txt_button_pg" value=">>" type="button">
+			</div>
+		</form>
+	</div>
+</div>-->
+
+
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-full">
+	
+	<!--<div class="container-custom">
+		<div class="col-lg-12 col-md-12 col-xs-12 footernonus">
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+				<a href="https://www.trifind.com/Results/">Discovery Triathlon 2017</a>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+				<a href="https://www.trifind.com/iron-h">Ironman Triathlon</a>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+				<a href="https://www.trifind.com/Races/InternationalTriathlons">Itu World Triathlon Series</a>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+				<a href="https://www.trifind.com/gs_mud/ObstacleMudRuns">Mud Obstacle Course</a>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+				<a href="https://www.trifind.com/gs_olympic/OlympicTriathlons">Olympic Distance Triathlon</a>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+				<a href="https://www.trifind.com/Races/InternationalTriathlons">Triathlon World Championships</a>
+			</div>
+	
+		</div>	-->	
+	 
+		
+		<h2>United States Triathlon Calendars</h2>
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ul-full">
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 part1">
+			
+				<ul>
+					<li><a href="https://www.trifind.com/al">Alabama Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ak">Alaska Triathlons</a></li>
+					<li><a href="https://www.trifind.com/az">Arizona Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ar">Arkansas Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ca">California Triathlons</a></li> 
+					<li><a href="https://www.trifind.com/co">Colorado Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ct">Connecticut Triathlons</a></li>
+					<li><a href="https://www.trifind.com/de">Delaware Triathlons</a></li>
+					<li><a href="https://www.trifind.com/dc">District of Columbia</a></li> 
+				</ul>
+			</div><!-- part1 close-->
+			
+			
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 part1">
+			
+				<ul>
+					<li><a href="https://www.trifind.com/fl">Florida Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ga">Georgia Triathlons</a></li>
+					<li><a href="https://www.trifind.com/hi">Hawaii Triathlons</a></li>
+					<li><a href="https://www.trifind.com/id">Idaho Triathlons</a></li>
+					<li><a href="https://www.trifind.com/il">Illinois Triathlons</a></li>
+					<li><a href="https://www.trifind.com/in">Indiana Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ia">Iowa Triathlons</a> </li>
+					<li><a href="https://www.trifind.com/ks">Kansas Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ky">Kentucky Triathlons</a></li>
+				</ul>
+			</div><!-- part1 close-->
+			
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 part1">
+			
+				<ul>
+					<li><a href="https://www.trifind.com/la">Louisiana Triathlons</a></li>
+					<li><a href="https://www.trifind.com/me">Maine Triathlons</a></li>
+					<li><a href="https://www.trifind.com/md">Maryland Triathlons</a></li>
+					
+					<li><a href="https://www.trifind.com/ma">Massachusetts Triathlons</a></li>
+					<li><a href="https://www.trifind.com/mi">Michigan Triathlons</a></li>
+					<li><a href="https://www.trifind.com/mn">Minnesota Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ms">Mississippi Triathlons</a></li>
+					<li><a href="https://www.trifind.com/mo">Missouri Triathlons</a> </li>
+					<li><a href="https://www.trifind.com/mt">Montana Triathlons</a></li>
+				</ul>
+			</div><!-- part1 close-->
+			
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 part1">
+			
+				<ul>
+					<li><a href="https://www.trifind.com/ne">Nebraska Triathlons</a></li>
+					<li><a href="https://www.trifind.com/nv">Nevada Triathlons</a></li>
+					<li><a href="https://www.trifind.com/nh">New Hamsphire Triathlons</a></li>
+					<li><a href="https://www.trifind.com/nj">New Jersey Triathlons</a></li>
+					
+					<li> <a href="https://www.trifind.com/nm">New Mexico Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ny">New York Triathlons</a></li>
+					<li><a href="https://www.trifind.com/nc">North Carolina Triathlons</a> </li>
+					<li><a href="https://www.trifind.com/nd">North Dakota Triathlons</a></li>
+				</ul>
+			</div><!-- part1 close-->
+			
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 part1">
+			
+				<ul>
+					<li><a href="https://www.trifind.com/oh">Ohio Triathlons</a> </li>
+					<li><a href="https://www.trifind.com/ok">Oklahoma Triathlons</a></li>
+					<li> <a href="https://www.trifind.com/or">Oregon Triathlons</a> </li>
+					<li><a href="https://www.trifind.com/pa">Pennsylvania Triathlons</a></li>
+					<li> <a href="https://www.trifind.com/ri">Rhode Island Triathlons</a> </li>
+					<li><a href="https://www.trifind.com/sc">South Carolina Triathlons</a></li>
+					<li><a href="https://www.trifind.com/sd">South Dakota Triathlons</a></li>
+					<li><a href="https://www.trifind.com/tn">Tennessee Triathlons</a></li>
+				</ul>
+			</div><!-- part1 close-->
+			
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 part1">
+			
+				<ul>
+					
+					<li> <a href="https://www.trifind.com/tx">Texas Triathlons</a></li>
+					<li><a href="https://www.trifind.com/ut">Utah Triathlons</a> </li>
+					<li><a  href="https://www.trifind.com/vt">Vermont Triathlons</a></li>
+					<li><a href="https://www.trifind.com/va">Virginia Triathlons</a></li>
+					<li> <a href="https://www.trifind.com/wa">Washington Triathlons</a></li>
+					<li><a href="https://www.trifind.com/wv">West Virginia Triathlons</a></li>
+					<li> <a href="https://www.trifind.com/wi">Wisconsin Triathlons</a> </li>
+					<li><a href="https://www.trifind.com/wy">Wyoming Triathlons</a></li>
+				</ul>
+				
+			</div><!-- ul-full close-->
+		</div><!-- part1 close-->
+			
+			
+		<div class="copyright-div">
+			<p><a href="https://www.trifind.com/PrivacyPolicy">Privacy Policy</a> - <a href="https://www.trifind.com/CookiePolicy">Cookie Policy</a> - <a href="https://www.trifind.com/TermofServices">Terms Of Service</a> - <a href="https://www.trifind.com/ContactUs">Contact
+				Us</a> - <a href="https://www.trifind.com/racefeed/add">Add Your Race</a> - <a href="https://www.trifind.com/Advertising/TriFindAdvertising">
+					Advertising on TriFind.com</a><br>
+				<!--All contents © copyright  TriFind.com All rights reserved.-->© copyright 2025 TriFind <a href="https://www.trifind.com">triathlon calendar 2025</a>  All rights reserved.</p>
+		</div><!--copyright-div close->
+		
+		</div><!-- container close-->
+	</div><!--- POPUP -->
+	<div role="dialog" class="modal fade" id="welcome_popup">
+	  <div class="modal-dialog">
+		<!-- Modal content -->
+		<div class="modal-content">
+		  <button data-dismiss="modal" class="close_btn" type="button">×</button>				 
+		  <div class="modal-body">
+			  "Check out our new site! Stay tuned for for more new innovations! For any questions or comments please contact us at: <a href="/cdn-cgi/l/email-protection#3d54535b527d494f545b545359135e5250"><span class="__cf_email__" data-cfemail="acc5c2cac3ecd8dec5cac5c2c882cfc3c1">[email&#160;protected]</span></a>" 				 				 
+		  </div>			   
+		</div>
+	  </div>
+	</div> 
+ 
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+jQuery('#StateCalendars').on('change', function(){
+	window.location.href = '/' + jQuery(this).val()
+});
+
+jQuery('.StateCalendarsheader').on('change', function(){
+	window.location.href = '/' + jQuery(this).val()
+});
+
+</script>
+<script type="text/javascript"> Caspion = { 'cfg': { 'id': 'trifindcom' } };</script>  
+	<script type="text/javascript" src="/js/bootstrap.min.js"></script>		<script async type="text/javascript" src="https://www.trifind.com/js/custom-script-new.js?SDfsdf=xsgfhcvs"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    
+    
+<!--  Start of Googlee Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketin...gsetup
+--------------------------------------------------->
+
+</body>
+</html>

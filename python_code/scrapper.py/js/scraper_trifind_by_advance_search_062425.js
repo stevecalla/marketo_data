@@ -1,0 +1,185 @@
+// npm install axios cheerio xlsx
+const axios = require('axios');
+const cheerio = require('cheerio');
+const fs = require('fs');
+const XLSX = require('xlsx');
+
+const BASE_URL = "https://www.trifind.com/";
+const output_directory = 'output/events/';
+const output_file_name = 'trifind_advanced_search_2025_results';
+
+// # Sport search term
+// Triathlon 1377 all, 807 usat, 549 non-usa
+// Duathlon  506 all, 340 usat, 162 non-usat
+// Aquabike 459 all, 357 usat, 101 non-usat
+// Aquathlon, 165 all, 88 usat, 77 non-usat
+// multisport 24 all, 1 usat, 23 non-usat
+const sport_map = [
+  {
+    query: 'sport_ids%5B0%5D=10',
+    sport: 'Triathlon'
+  },
+  {
+    query: 'sport_ids%5B%5D=5',
+    sport: 'Duathlon'
+  },
+  {
+    query: 'sport_ids%5B%5D=2',
+    sport: 'Aquabike'
+  },
+  {
+    query: 'sport_ids%5B%5D=3',
+    sport: 'Aquathlon'
+  },
+  {
+    query: 'sport_ids%5B%5D=12',
+    sport: 'Multisport'
+  }
+];
+
+const allEvents = [];
+
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+async function scrapeSport(query, sport) {
+  let page = 1;
+  while (true) {
+
+    // const url = `${BASE_URL}${state}?page=${page}`;
+    const url_v2 = `${BASE_URL}Races/AdvancedTriathlonSearch?do=Search&start_month=1&end_month=12&year=2025&event=&${query}&search=go&page=${page}&sort=Race.date&direction=ASC`;
+
+    console.log(`Scraping: ${url_v2}`);
+
+    try {
+      const { data: html } = await axios.get(url_v2, {
+        headers: { 'User-Agent': 'Mozilla/5.0' },
+        timeout: 10000
+      });
+
+      const $ = cheerio.load(html);
+      const panels = $('.panel.panel-info.clearfix');
+
+      if (panels.length === 0) {
+        console.log(`✅ No more panels on page ${page}.`);
+        break;
+      }
+
+      panels.each((_, panel) => {
+        const el = $(panel);
+        const event = {
+          title: null,
+          url: null,
+          date: null,
+          city: null,
+          state: null,
+          location: null,
+          race_type: null,
+          usat_sanctioned: "No"
+        };
+
+        const a = el.find('a[title][href]').first();
+        if (a.length) {
+          event.title = a.text().trim();
+          event.url = a.attr('href');
+        }
+
+        const dateDiv = el.find('.panel-heading .text-md-right').first();
+        if (dateDiv.length) {
+          event.date = dateDiv.text().trim();
+        }
+
+        const loc = el.find('span.location-text').first();
+        if (loc.length) {
+
+          // Extract location text
+          const location = loc.find('b').first().text().trim().replace(/\s+/g, ' ');
+
+          // Split city and state
+          let location_v2 = location;
+          let [city, state_full] = location.split(',').map(s => s.trim());
+
+          event.location = location_v2;
+          event.city = city;
+          event.state = state_full;
+
+        }
+
+        event.race_type = sport;
+        const usatLogo = el.find('img[src="/images/usat-logo.png"]');
+        event.usat_sanctioned = usatLogo.length > 0 ? "Yes" : "No";
+
+        allEvents.push(event);
+      });
+
+      page++;
+      await delay(1000); // polite delay
+    } catch (error) {
+      console.log(`❌ Failed on page ${page} for ${sport}:`, error.message);
+      break;
+    }
+  }
+}
+
+(async () => {
+  for (const { query, sport } of sport_map) {
+    await scrapeSport(query, sport);
+  }
+
+  // Write CSV
+  const csv = [
+    Object.keys(allEvents[0]).join(','),
+    ...allEvents.map(ev =>
+      `"${ev.title}","${ev.url}","${ev.date}","${ev.city}","${ev.state}","${ev.location}","${ev.race_type}",${ev.usat_sanctioned}`
+    )
+  ].join('\n');
+
+  // fs.writeFileSync('trifind_paginated_events.csv', csv);
+  fs.writeFileSync(`${output_directory}${output_file_name}.csv`, csv);
+
+  // Build pivot table by state & usat_sanctioned
+  const pivotMap = {};
+  allEvents.forEach(ev => {
+    const key = ev.state;
+    if (!pivotMap[key]) pivotMap[key] = { Yes: 0, No: 0 };
+    pivotMap[key][ev.usat_sanctioned]++;
+  });
+
+  const pivotArray = Object.entries(pivotMap).map(([state, counts]) => ({
+    state,
+    Yes: counts.Yes,
+    No: counts.No,
+    Total_Events: counts.Yes + counts.No
+  }));
+
+  // Add grand total row
+  const totalYes = pivotArray.reduce((sum, row) => sum + row.Yes, 0);
+  const totalNo = pivotArray.reduce((sum, row) => sum + row.No, 0);
+  pivotArray.push({
+    state: 'ALL_STATES',
+    Yes: totalYes,
+    No: totalNo,
+    Total_Events: totalYes + totalNo
+  });
+
+  // Write to Excel
+  const workbook = XLSX.utils.book_new();
+  const ws_all = XLSX.utils.json_to_sheet(allEvents);
+  const ws_pivot = XLSX.utils.json_to_sheet(pivotArray);
+  XLSX.utils.book_append_sheet(workbook, ws_all, 'All Events');
+  XLSX.utils.book_append_sheet(workbook, ws_pivot, 'Pivot by USAT');
+  XLSX.writeFile(workbook, `${output_directory}${output_file_name}.xlsx`);
+
+  // Console summary
+  const topStates = pivotArray
+    .filter(row => row.state !== 'ALL_STATES')
+    .sort((a, b) => b.Total_Events - a.Total_Events)
+    .slice(0, 5);
+
+  console.log("\n📊 Summary:");
+  console.log(`🔢 Total Events Scraped: ${allEvents.length}\n`);
+  console.log("🏆 Top 5 States by Total Events:");
+  for (const row of topStates) {
+    console.log(`${row.state}: ${row.Total_Events} total — 🟢 USAT: ${row.Yes}, 🔴 Non-USAT: ${row.No}`);
+  }
+  console.log(`\n📈 Overall Breakdown:\n🟢 USAT Sanctioned: ${totalYes}\n🔴 Non-USAT: ${totalNo}`);
+})();
